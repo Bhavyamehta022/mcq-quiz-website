@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    margin: 10px;
+    background-color: azure;
+}
+#quiz {
+    margin: 10px;
+    color: purple;
+    border: 2px solid purple;
+    border-radius: 10px;
+    background-color: bisque;
+}
+
+#previous{
+    margin: 0 800px 0 0;
+}
+button{
+    background-color: cadetblue;
+    color: white;
+    border-radius: 20px;
+    width: 100px;
+    height: 30px;
+    border-color: white;
+    cursor: pointer;
+    margin: 50px 0;
+}
